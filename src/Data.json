@@ -1,0 +1,488 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/section/hero-img.jpg",
+      "title": "Yiğit Malik <br /> Uzuntaş",
+      "subTitle": "Hello, I’m",
+      "designation": "Visual Designer"
+    },
+   
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Yigit Malik UZUNTAŞ",
+    "subtitle": "Visual Designer",
+    "text": "I was born in the city of bishkek at Kyrgyzstan in 1999. And now I live in Turkey. I graduated from Akdeniz University Computer Programming Department. My investigative and prescriptive spirit are chief factors that provided me to being in this area. And I am currently working as a Freelancer.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "August 18, 1999"
+      },
+      {
+        "title": "Phone",
+        "info": "+90 534 376 61 86"
+      },
+      {
+        "title": "Email",
+        "info": "yigitmalikuzuntas@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Ankara/Turkey"
+      },
+      {
+        "title": "Language",
+        "info": "English, Русский, Türkçe"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "I am improving myself on problem solving, software development and and designing",
+    "skills": [
+      {
+        "title": "C#",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "SQL",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "C",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "UX Design",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "HTML",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Digital Marketing",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Eyüp GÖKDUMAN",
+        "designation": "Frondend Developer",
+        "text": "Hi I am Eyüp GÖKDUMAN  I am 23 and I am living in Istanbul. In this team I work as a frondend developer. At the same time I am in charge of technical support. And  I am developing myself at problem solving, human relationship and software proficiency every day."
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "Enes NACAKCI",
+        "designation": "Backend Developer, Marketing Expert",
+        "text": "My name is Enes NACAKCI I was born in Konya in 1998. I graduated from Uludağ University Mecatronics Dep. and Akdeniz University PC programmer Dep. and still I am working on company automations, softwares and accounting."
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Büşra KOÇ",
+        "designation": "Visual Designer",
+        "text": "Hi I am Büşra Koç, I am 23 and living in Istanbul. I am working as social media consultancy in addition to this I also make logos and brochures by using Photoshop and Illustrator."
+      },
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Eyüp GÖKDUMAN",
+        "designation": "Frondend Developer",
+        "text": "Hi I am Eyüp GÖKDUMAN  I am 23 and I am living in Istanbul. In this team I work as a frondend developer. At the same time I am in charge of technical support. And  I am developing myself at problem solving, human relationship and software proficiency every day."
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "Enes NACAKCI",
+        "designation": "Backend Developer, Marketing Expert",
+        "text": "My name is Enes NACAKCI I was born in Konya in 1998. I graduated from Uludağ University Mecatronics Dep. and Akdeniz University PC programmer Dep. and still I am working on company automations, softwares and accounting."
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Büşra KOÇ",
+        "designation": "Visual Designer",
+        "text": "Hi I am Büşra Koç, I am 23 and living in Istanbul. I am working as social media consultancy in addition to this I also make logos and brochures by using Photoshop and Illustrator."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Certificate",
+    "experience": [
+      {
+        "title": "CS50X harvard ",
+        "duration": "Jan 2023 - Present",
+        "subTitle": "",
+        "text": "I'm working on it, I will finish it as soon as possible."
+      },
+      {
+        "title": "Bilge Adam",
+        "duration": "Jan 2023 - Present",
+        "subTitle": "",
+        "text": "I'm working on it, I will finish it as soon as possible."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Computer Programming Science",
+        "duration": "2019 - 2021",
+        "subTitle": "University of AKDENİZ"
+
+      },
+      {
+        "title": "Bachelor of Computer Science",
+        "duration": "2012 - 2016",
+        "subTitle": "Surmene Turk Telekom Vocational and Technical Anatolia high school"
+
+      },
+      {
+        "title": "Web and Coding Science",
+        "duration": "2023 - ...",
+        "subTitle": "XYZ Institution"
+
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+  },
+  "socialData": [
+    {
+      "icon": "github",
+      "title": "Github",
+      "link": "https://github.com/yigitmalik"
+    },
+    {
+      "icon": "instagram",
+      "title": "Instagram",
+      "link": "https://instagram.com/yigitmalik6161?igshid=NzZlODBkYWE4Ng=="
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "https://twitter.com/yigitmalik6161"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/yi%C4%9Fit-malik-uzunta%C5%9F-900575220/"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "facebook-f",
+      "link": "/facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "/twitter"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/yigitmalik"
+    }
+  ]
+}
